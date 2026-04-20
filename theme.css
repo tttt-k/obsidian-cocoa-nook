@@ -514,3 +514,7 @@ content: url("data:image/svg+xml,%3Csvg viewBox='0 0 32 32' fill='none' xmlns='h
 .theme-light .bases-cards-item{
     background: #efeae1;
 }
+
+.cm-s-obsidian span.cm-blockid {
+    color: #bba590;
+}
