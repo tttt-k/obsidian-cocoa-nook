@@ -110,17 +110,6 @@ h2::after,
 .markdown-source-view .cm-hmd-barelink {
     color: var(--color-orange);
     text-decoration: underline;
-    text-decoration-color: color-mix(in srgb, var(--color-orange) 90%, transparent);
-}
-
-.theme-light .markdown-source-view span.cm-strikethrough,
-.theme-light .markdown-preview-view del {
-    text-decoration-color: color-mix(in srgb, var(--icon-color) 70%, transparent);
-}
-
-.markdown-source-view U,
-.markdown-preview-view U {
-    text-decoration-color: color-mix(in srgb, var(--interactive-accent-hover) 70%, transparent);
 }
 
 .markdown-source-view kbd,
